@@ -7,7 +7,7 @@ Outside of research, I enjoy chess, [rock climbing](https://photos.google.com/sh
 
 Collection of implementations of Hierarchical Reinforcement Learning [algorithms](https://github.com/konichuvak/hrl)
 
-An [attempt](https://github.com/konichuvak/rl_experiments) to make an interactive follow-along for [Reinforcement Learning: An Introduction book](http://www.incompleteideas.net/book/the-book-2nd.html).
+An [attempt](https://github.com/konichuvak/rl_experiments) to make an interactive follow-along for [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) book.
 
 
 
