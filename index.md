@@ -1,5 +1,3 @@
-# Vlad Arialin
-
 I am a final year undergraduate at Concordia University, Montreal studying Mathematics and Statistics.
 My research is focused on Reinforcement Learning and it's real-life applications. I am curious about integrating temporal abstraction in autonomous agents, so that they can learn and plan at multiple levels of hierarchy at the same time.
 I also think about immediate applications of RL to tackle problems like ![climate change](https://github.com/konichuvak/hotrl).
