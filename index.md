@@ -6,7 +6,7 @@ Outside of research, I enjoy chess, [rock climbing](https://photos.google.com/sh
 
 ## Projects 
 
-| :-------------: |:-------------:| -----:|
+| <div style="width:150">property</div> |:-------------:| -----:|
 | <img src="./assets/hallway_options.png" width="150" height="150"> | Collection of implementations for Hierarchical Reinforcement Learning algorithms | [[code]((https://github.com/konichuvak/hrl))] |
 | [insert gif here] | Interactive follow-along for [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book-2nd.html) book | [[code](https://github.com/konichuvak/rl_experiments)] |
 | <img src="./assets/thermostat.gif" width="150" height="150"> | It's getting hot in here: applying RL techniques to develop a cost efficient thermostat for household heating. Project was submitted for [2019 Climate Change Hacakathon](https://launchlab.ai/hackathon/). | [[code](https://github.com/konichuvak/hotrl), [devpost](https://devpost.com/software/it-s-getting-hot-in-here)  |
