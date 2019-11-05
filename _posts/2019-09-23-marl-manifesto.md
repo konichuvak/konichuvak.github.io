@@ -4,7 +4,7 @@ date: 2019-09-23
 categories: [MARL, reading]
 tags: [social-sciences, game-theory]
 ---
-[paper](https://arxiv.org/pdf/1903.00742.pdf) by Joel Z. Leibo, Edward Hughes, Marc Lanctot and Thore Graepel
+reading [paper](https://arxiv.org/pdf/1903.00742.pdf) by Joel Z. Leibo, Edward Hughes, Marc Lanctot and Thore Graepel
 
 ## Why am I reading this
 I listened to a [TalkRL](https://www.talkrl.com/episodes/natasha-jaques) podcast with Natasha Jacques, who was talking about how social sciences can help development of intelligent agents.  
