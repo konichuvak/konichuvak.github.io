@@ -1,6 +1,8 @@
 Hi there! 
-I am a final year undergraduate at Concordia University, Montreal studying Mathematics and Statistics. 
+
 <img src="./assets/portrit.jpg" width="200""> 
+
+I am a final year undergraduate at Concordia University, Montreal studying Mathematics and Statistics. 
 My research is focused around acquisition of meaningful abstraction via Reinforcement Learning. 
 I am particularly curious about integrating temporal abstraction in autonomous agents, so that they can learn and plan at multiple levels of hierarchy at the same time.
 I also think about immediate applications of RL to tackle problems like [climate change](https://github.com/konichuvak/hotrl).
