@@ -5,9 +5,9 @@
 layout: home
 ---
 
-Hi there! 
-
 <img src="./assets/portrait.jpg" style="float: right;" width="150">
+
+Hi there! 
 
 I am a final year undergraduate at Concordia University, Montreal studying Mathematics and Statistics. 
 My research is focused around acquisition of meaningful abstraction via Reinforcement Learning. 
